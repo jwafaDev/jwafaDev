@@ -1,10 +1,10 @@
-# 👋 مرحباً، أنا jwaifa Dev
+# 👋 Hi، I'm jwaifa Dev
 
 **Web Developer | React Specialist | UI/UX Enthusiast**
 
 ---
 
-## 🚀 حول ي
+##  About Me
 
 مطور ويب متخصص في بناء تطبيقات ويب حديثة وتفاعلية باستخدام **React** و **JavaScript**. أركز على تجربة المستخدم وتصميم الواجهات الجميلة والفعالة.
 
@@ -79,9 +79,9 @@
 
 | المشروع | الوصف | اللغة | النجوم |
 |---------|-------|-------|--------|
-| [react-profile](https://github.com/jwafaDev/react-profile) | ملف شخصي تفاعلي | JavaScript | ⭐ |
-| [Restaurant-Little-Lemon](https://github.com/jwafaDev/Restaurant-Little-Lemon) | تطبيق مطعم مع نظام حجز | JavaScript | ⭐ |
-| [UI-Component-Library](https://github.com/jwafaDev/UI-Component-Library) | مكتبة مكونات UI | CSS/React | ⭐⭐ |
+| [react-profile](https://github.com/jwafaDev/react-profile) | React Profile | JavaScript | ⭐ |
+| [Restaurant-Little-Lemon](https://github.com/jwafaDev/Restaurant-Little-Lemon) | App Restaurant Little Lemon | JavaScript | ⭐ |
+| [UI-Component-Library](https://github.com/jwafaDev/UI-Component-Library) | UI Component Library | CSS/React | ⭐⭐ |
 
 </div>
 
