@@ -49,7 +49,7 @@
 ---
 
 ### 2. 🍽️ [Restaurant - Little Lemon](https://github.com/jwafaDev/Restaurant-Little-Lemon)
-> تطبيق مطعم حديث مع نظام حجز الطاولات
+> App مطعم حديث مع نظام حجز الطاولات
 
 **المميزات:**
 - نظام حجز طاولات متقدم
