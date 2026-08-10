@@ -5,14 +5,15 @@
 ---
 
 ##  About Me
+Web Developer specializing in building modern and interactive web applications using **React** and **JavaScript**. I focus on delivering great user experiences and creating beautiful, efficient, and user-friendly interfaces.
 
-مطور ويب متخصص في بناء تطبيقات ويب حديثة وتفاعلية باستخدام **React** و **JavaScript**. أركز على تجربة المستخدم وتصميم الواجهات الجميلة والفعالة.
+**Focus:**
 
-🎯 **التركيز:**
-- بناء تطبيقات React احترافية
-- تصميم واجهات مستخدم جميلة وسهلة الاستخدام
-- العمل على مشاريع عملية وحقيقية
-- كتابة أكواد نظيفة وقابلة للصيانة
+* Building professional React applications
+* Designing beautiful and intuitive user interfaces
+* Working on practical, real-world projects
+* Writing clean, maintainable, and scalable code
+
 
 ---
 
