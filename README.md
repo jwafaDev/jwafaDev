@@ -27,10 +27,12 @@ Web Developer specializing in building modern and interactive web applications u
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?logo=chakra-ui&logoColor=white&style=flat-square)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=react-router&logoColor=white&style=flat-square)
 
-### Tools & Libraries
-- **Formik** - إدارة النماذج
-- **Framer Motion** - رسوميات والحركات
-- **React Testing Library** - اختبار المكو��ات
+### Tools & LibrariesFrontend
+****Frontend****
+**Tools & Libraries**
+ - **Formik** — Form management
+ - **Framer Motion** — Animations and motion effects
+ - **React Testing Library** — Component testing
 
 ---
 
