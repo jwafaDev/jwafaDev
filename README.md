@@ -17,7 +17,7 @@ Web Developer specializing in building modern and interactive web applications u
 
 ---
 
-## 💻 المهارات والتكنولوجيات
+## Skills & Technologies
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
@@ -27,9 +27,7 @@ Web Developer specializing in building modern and interactive web applications u
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?logo=chakra-ui&logoColor=white&style=flat-square)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=react-router&logoColor=white&style=flat-square)
 
-### Tools & LibrariesFrontend
-****Frontend****
-**Tools & Libraries**
+### Tools & Libraries
  - **Formik** — Form management
  - **Framer Motion** — Animations and motion effects
  - **React Testing Library** — Component testing
