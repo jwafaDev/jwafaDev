@@ -34,18 +34,18 @@ Web Developer specializing in building modern and interactive web applications u
 
 ---
 
-## 🎯 المشاريع الرئيسية
+## Main Projects
 
 ### 1. 🎨 [React Profile](https://github.com/jwafaDev/react-profile)
-> App  ملف شخصي تفاعلي مع تصميم حديث
+> An interactive personal profile app with a modern design.
 
-**المميزات:**
-- واجهة مستخدم جميلة بـ Chakra UI
-- رسوميات سلسة مع Framer Motion
-- التحقق من صحة النماذج مع Formik
-- تصميم متجاوب (Responsive)
-
-**التكنولوجيات:** React, Chakra UI, Formik, Framer Motion
+**Features:**
+- Beautiful user interface built with Chakra UI
+- Smooth animations with Framer Motion
+- Form validation using Formik
+- Responsive design
+  
+**Technologies:** React, Chakra UI, Formik, Framer Motion
 
 ---
 
