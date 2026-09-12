@@ -40,10 +40,10 @@ Web Developer specializing in building modern and interactive web applications u
 > An interactive personal profile app with a modern design.
 
 **Features:**
-- Beautiful user interface built with Chakra UI
-- Smooth animations with Framer Motion
-- Form validation using Formik
-- Responsive design
+- Beautiful user interface built with Chakra UI.
+- Smooth animations with Framer Motion.
+- Form validation using Formik.
+- Responsive design.
   
 **Technologies:** React, Chakra UI, Formik, Framer Motion
 
