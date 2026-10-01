@@ -52,7 +52,7 @@ Web Developer specializing in building modern and interactive web applications u
 ### 2. 🍽️ [Restaurant - Little Lemon](https://github.com/jwafaDev/Restaurant-Little-Lemon)
 >A modern restaurant app with a table reservation system.
 
-**المميزات:**
+**Features:**
 - نظام حجز طاولات متقدم
 - تأكيد الحجز الفوري
 - تصميم متجاوب واحترافي
