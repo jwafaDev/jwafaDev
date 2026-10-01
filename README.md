@@ -53,12 +53,12 @@ Web Developer specializing in building modern and interactive web applications u
 >A modern restaurant app with a table reservation system.
 
 **Features:**
-- نظام حجز طاولات متقدم
-- تأكيد الحجز الفوري
-- تصميم متجاوب واحترافي
-- واجهة سهلة الاستخدام
-
-**التكنولوجيات:** React, React Router, JavaScript
+- Advanced table reservation system
+- Instant booking confirmation
+- Responsive and professional design
+- User-friendly interface
+  
+**Technologies:** React, React Router, JavaScript
 
 ---
 
